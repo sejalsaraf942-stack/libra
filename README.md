@@ -1,4 +1,4 @@
-# Libra — AI Legal Awareness Assistant for India
+# VidhiVraksh — AI Legal Awareness Assistant for India
 
 Hackathon-ready web app. Next.js/React/TS frontend + FastAPI/Python backend + FAISS RAG.
 
